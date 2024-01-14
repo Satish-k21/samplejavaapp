@@ -4,7 +4,6 @@ public class PrepareTargetMethod {
 
 	private static final String METHOD_GET_PREFIX = "get";
 	/***
-         * Webhooks
 	 * preparing target name of getter method for given sort field
 	 *
 	 * @param name a {@link java.lang.String}
